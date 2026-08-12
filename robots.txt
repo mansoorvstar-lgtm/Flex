@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: cgi/bin
-Disallow: cgi/bin
-Sitemap: https://github.com/mansoorvstar-lgtm/Flex
